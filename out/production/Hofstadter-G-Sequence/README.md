@@ -1,1 +1,0 @@
-# Hofstadter-G-Sequence
